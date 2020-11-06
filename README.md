@@ -2,14 +2,14 @@
 
 ## TIPOS DE SOFTWARE
 ### - De Sistema
--- Sistema operativo
--- drivers
+- Sistema operativo
+- Drivers
 ### - De aplicación
--Suite ofimática
--Navegador
--Edición de imagen
+- Suite ofimática
+- Navegador
+- Edición de imagen
 ### - De desarrollo
--Editores
--compiladores
--interpretes
+- Editores
+- Compiladores
+- Interpretes
 ## RELACIÓN HARDWARE-SOFTWARE
