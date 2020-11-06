@@ -2,8 +2,8 @@
 
 ## TIPOS DE SOFTWARE
 ### - De Sistema
---Sistema operativo
---drivers
+-- Sistema operativo
+-- drivers
 ### - De aplicación
 -Suite ofimática
 -Navegador
